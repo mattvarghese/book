@@ -1,0 +1,7 @@
+## License
+
+**Copyright (c) 2025 Matt (Varghese Mathew)**  
+**All rights reserved.**
+
+This work may **not be copied, modified, forked, distributed, or used in any form** without prior written permission from the copyright holder.
+
